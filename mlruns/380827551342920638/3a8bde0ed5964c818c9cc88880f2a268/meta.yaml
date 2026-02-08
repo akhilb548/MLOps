@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/380827551342920638/3a8bde0ed5964c818c9cc88880f2a268/artifacts
+end_time: 1770573229513
+entry_point_name: ''
+experiment_id: '380827551342920638'
+lifecycle_stage: active
+run_id: 3a8bde0ed5964c818c9cc88880f2a268
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770573205728
+status: 3
+tags: []
+user_id: Akhil Budampati

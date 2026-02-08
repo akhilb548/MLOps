@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/380827551342920638/0bec5ae1c4ee481d8284e9e844e6ec03/artifacts
+end_time: 1770573161672
+entry_point_name: ''
+experiment_id: '380827551342920638'
+lifecycle_stage: active
+run_id: 0bec5ae1c4ee481d8284e9e844e6ec03
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770573138939
+status: 3
+tags: []
+user_id: Akhil Budampati

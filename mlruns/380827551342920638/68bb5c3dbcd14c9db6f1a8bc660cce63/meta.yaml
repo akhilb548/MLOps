@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/380827551342920638/68bb5c3dbcd14c9db6f1a8bc660cce63/artifacts
+end_time: 1770573204582
+entry_point_name: ''
+experiment_id: '380827551342920638'
+lifecycle_stage: active
+run_id: 68bb5c3dbcd14c9db6f1a8bc660cce63
+run_name: Gradient_Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770573183531
+status: 3
+tags: []
+user_id: Akhil Budampati
